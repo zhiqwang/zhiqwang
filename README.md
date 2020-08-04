@@ -9,7 +9,7 @@
 
 ### *Top Langs*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiqwang&hide=javascript,html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=javascript,html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### *Stats*
 
