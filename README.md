@@ -9,6 +9,4 @@ Thanks for stopping by, this is **zhiq (刺客)** from China, base in Beijing.
 
 ### *Stats*
 
-[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=javascript,html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=zhiqwang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=zhiqwang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
