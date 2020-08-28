@@ -1,6 +1,6 @@
 ### *Hi there* / *bonjour* / *你好* 👋
 
-Thanks for stopping by, this is **zhiq (刺客)** from China, base in Beijing.
+Thanks for stopping by, this is **zhiq (刺客)**, a developer based in Beijing, China.
 
 - 🤗 I’m currently working on [demonet](https://github.com/zhiqwang/demonet), it has fully support for torchscript and onnx Now.
 - 📫 My homapage address is [here](https://zhiqwang.com). Best way to contact me would be via [email](mailto:me@zhiqwang.com).
