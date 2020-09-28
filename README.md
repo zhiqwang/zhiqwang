@@ -1,6 +1,6 @@
-### *Hi there* / *bonjour* / *你好* 👋
+### *Hi there* / *bonjour* / *你好* 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang)](https://github.com/zhiqwang/zhiqwang)
 
-Thanks for stopping by, this is **zhiq (刺客)**, a developer based in Beijing, China. 🥳 You can also find me on [bilibili](https://space.bilibili.com/168869832) (where I'm active here almost every day). [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang)](https://github.com/zhiqwang/zhiqwang)
+Thanks for stopping by, this is **zhiq (刺客)**, a developer based in Beijing, China. 🥳
 
 ### *I'm working on*
 
