@@ -4,12 +4,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang" />
 </p>
 
-Thanks for stopping by, this is **zhiq (刺客)**, a developer based in Beijing, China.
-
-- 🤗 I’m currently working on [demonet](https://github.com/zhiqwang/demonet), it has fully support for torchscript and onnx Now.
-- 📫 My homapage address is [here](https://zhiqwang.com). Best way to contact me would be via [email](mailto:me@zhiqwang.com).
-- 🥳 You can also find me on [bilibili](https://space.bilibili.com/168869832) (where I'm active here almost every day).
-- 🖊️ I post my [blog](https://zhiqwang.com/post) once a year.
+Thanks for stopping by, this is **zhiq (刺客)**, a developer based in Beijing, China. 🥳 You can also find me on [bilibili](https://space.bilibili.com/168869832) (where I'm active here almost every day).
 
 ### *I'm working on*
 
