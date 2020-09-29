@@ -2,7 +2,7 @@
 
 Thanks for stopping by, this is **zhiq (刺客)**, a developer based in Beijing, China. 🥳 I'm currently working on
 
-<p align="left"><a href="https://github.com/zhiqwang/demonet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zhiqwang&repo=demonet&show_owner=true" alt="linux" height="133"/></a></p>
+<p align="left"><a href="https://github.com/zhiqwang/demonet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zhiqwang&repo=demonet&show_owner=true" alt="demonet" height="133"/></a></p>
 
 ### *Tools I use to code with!*
 
@@ -10,4 +10,4 @@ Thanks for stopping by, this is **zhiq (刺客)**, a developer based in Beijing,
 
 ### *Stats*
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=zhiqwang&count_private=true&show_icons=true&hide=issues&include_all_commits=true" height="156"/>    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=jupyter%20notebook" height="156"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=zhiqwang&count_private=true&show_icons=true&hide=issues&include_all_commits=true" alt="github readme stats" height="156"/>    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=jupyter%20notebook" alt="top langs" height="156"/></p>
