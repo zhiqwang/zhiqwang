@@ -10,4 +10,4 @@ Thanks for stopping by, this is **zhiq (刺客)**, a developer based in Beijing,
 
 ### *Stats*
 
-<p align="left"><a href="https://github.com/zhiqwang?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=zhiqwang&count_private=true&show_icons=true&hide=issues&include_all_commits=true" alt="github readme stats" height="156"/></a>    <a href="https://github.com/zhiqwang?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=jupyter%20notebook" alt="top langs" height="156"/></a></p>
+<p align="left"><a href="https://github.com/zhiqwang?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=zhiqwang&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>    <a href="https://github.com/zhiqwang?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=jupyter%20notebook" alt="top langs" height="156"/></a></p>
