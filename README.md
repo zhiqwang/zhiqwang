@@ -2,7 +2,7 @@
 
 Thanks for stopping by, this is **zhiq (刺客)**, a developer based in Beijing, China. 🥳 I'm currently working on
 
-<p align="left"><a href="https://github.com/zhiqwang/demonet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zhiqwang&repo=demonet&show_owner=true" alt="demonet" height="133"/></a>    <a href="https://github.com/zhiqwang/yolov5-rt-stack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zhiqwang&repo=yolov5-rt-stack&show_owner=true" alt="yolov5-rt-stack" height="133"/></a></p>
+<p align="left"><a href="https://github.com/zhiqwang/yolov5-rt-stack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zhiqwang&repo=yolov5-rt-stack&show_owner=true" alt="yolov5-rt-stack" height="133"/></a></p>
 
 ### *Tools I use to code with!*
 
