@@ -1,6 +1,6 @@
 ### *Hi there* / *bonjour* / *你好* 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang)](https://github.com/zhiqwang/zhiqwang)
 
-Thanks for stopping by, this is **zhiq (刺客)**, a developer based in Beijing, China. 🥳 I'm currently working on
+Thanks for stopping by, this is **zhiq (走走)**, a developer based in Beijing, China. 🥳 I'm currently working on
 
 <p align="left"><a href="https://github.com/zhiqwang/yolov5-rt-stack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zhiqwang&repo=yolov5-rt-stack&show_owner=true" alt="yolov5-rt-stack" height="133"/></a></p>
 
