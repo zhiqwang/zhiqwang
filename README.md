@@ -1,4 +1,4 @@
-### *Hi there* / *bonjour* / *你好* 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang)](https://github.com/zhiqwang/zhiqwang)
+### *Hi there* 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang)](https://github.com/zhiqwang/zhiqwang)
 
 Thanks for stopping by, this is **zhiq (走走)**, a developer based in Beijing, China. 🥳 I'm currently working on
 
