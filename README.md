@@ -1,4 +1,4 @@
-### *Happy New Year!* 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang)](https://github.com/zhiqwang/zhiqwang)
+### *Hi here!* 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang)](https://github.com/zhiqwang/zhiqwang)
 
 Thanks for stopping by, this is **zhiqiang**, a developer based in Beijing, China. 🥳 I'm looking to collaborate on [yolov5rt](https://github.com/zhiqwang/yolov5-rt-stack).
 
