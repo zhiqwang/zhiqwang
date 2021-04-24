@@ -13,13 +13,16 @@ Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 </p>
 
-### Stats
+<details>
+<summary>📈 <b>My GitHub Stats</b></summary>
 
-<p align="left">
-  <a href="https://github.com/zhiqwang?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=zhiqwang&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/>
-  </a>
-  <a href="https://github.com/zhiqwang?tab=repositories">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=jupyter%20notebook" alt="top langs" height="156"/>
-  </a>
-</p>
+  <p align="left">
+    <a href="https://github.com/zhiqwang?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api?username=zhiqwang&count_private=true&show_icons=true&hide=issues&theme=gotham" alt="github readme stats" height="156"/>
+    </a>
+    <a href="https://github.com/zhiqwang?tab=repositories">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=jupyter%20notebook&theme=gotham" alt="top langs" height="156"/>
+    </a>
+  </p>
+
+</details>
