@@ -1,8 +1,8 @@
 ### 👋 Hi here! [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang)](https://github.com/zhiqwang/zhiqwang)
 
-Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I'm looking for collaborator on [yolort](https://github.com/zhiqwang/yolov5-rt-stack). If you are interested in this, fell free to contact me via E-mail or QQ: 525821227 (Use `yolort` as verification information). 🥳
+Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I'm looking for collaborator on [yolort](https://github.com/zhiqwang/yolov5-rt-stack). If you are interested in this, fell free to contact me via E-mail or QQ: 525821227 (Use `yolort` as verification information). 🤗
 
-### Tools I use to code with:
+### Tools I use to code with
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
@@ -13,7 +13,9 @@ Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 </p>
 
+
 <details>
+
 <summary>📈 <b>My GitHub Stats</b></summary>
 
   <p align="left">
