@@ -1,6 +1,6 @@
 ### 👋 Hi here! [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang)](https://github.com/zhiqwang/zhiqwang)
 
-Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I'm looking for collaborator on [yolort](https://github.com/zhiqwang/yolov5-rt-stack). If you are interested in this, fell free to contact me via E-mail or QQ: 525821227 (Use `yolort` as verification information). 🤗
+Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I'm looking for collaborator on [yolort](https://github.com/zhiqwang/yolov5-rt-stack). If you are interested in this, feel free to contact me via E-mail or QQ: 525821227 (With `yolort` as the verification info). 🤗
 
 ### Tools I use to code with
 
@@ -16,8 +16,8 @@ Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I
 
 <details>
 
-<summary>📈 <b>My GitHub Stats</b></summary>
-
+<summary><b>Click to show my GitHub Stats 📈</b></summary>
+  </br>
   <p align="left">
     <a href="https://github.com/zhiqwang?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api?username=zhiqwang&count_private=true&show_icons=true&hide=issues&theme=gotham" alt="github readme stats" height="156"/>
