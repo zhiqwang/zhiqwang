@@ -30,10 +30,10 @@ Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I
   </br>
   <p align="left">
     <a href="https://github.com/zhiqwang?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api?username=zhiqwang&count_private=true&show_icons=true&hide=issues&theme=gotham" alt="github readme stats" height="156"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=zhiqwang&count_private=true&show_icons=true&hide=issues&theme=monokai" alt="github readme stats" height="156"/>
     </a>
     <a href="https://github.com/zhiqwang?tab=repositories">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=jupyter%20notebook&theme=gotham" alt="top langs" height="156"/>
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=jupyter%20notebook&theme=monokai" alt="top langs" height="156"/>
     </a>
   </p>
 
