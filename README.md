@@ -1,6 +1,6 @@
 ### :wave: Hi here! [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang)](https://github.com/zhiqwang/zhiqwang)
 
-Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I'm looking for collaborator on [yolort](https://github.com/zhiqwang/yolov5-rt-stack). If you are interested in this, feel free to contact me via E-mail or QQ: 525821227 (With `yolort` as the verification info). :hugs:
+Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I'm looking for collaborator on [yolort](https://zhiqwang.com/yolov5-rt-stack/). If you are interested in this, feel free to contact me via E-mail or QQ: 525821227 (With `yolort` as the verification info). :hugs:
 
 ### Things I code with
 
@@ -15,7 +15,7 @@ Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I
   <img alt="codecov" src="https://img.shields.io/badge/codecov-%23ff0077.svg?style=flat-square&logo=codecov&logoColor=white" >
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" >
   <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" >
-  <img alt="github actions" src="https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" >
+  <img alt="github-actions" src="https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" >
   <img alt="jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=Jekyll&logoColor=white" >
   <img alt="vscode" src="https://img.shields.io/badge/vscode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" >
   <img alt="latex" src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white" >
