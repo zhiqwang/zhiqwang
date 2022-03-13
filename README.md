@@ -1,4 +1,4 @@
-### :wave: Hi here! [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zhiqwang.zhiqwang)](https://github.com/zhiqwang/zhiqwang)
+### :wave: Hi here!
 
 Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I'm looking for collaborator on [yolort](https://zhiqwang.com/yolov5-rt-stack/). If you are interested in this, feel free to contact me via E-mail or QQ: 525821227 (With `yolort` as the verification info). :hugs:
 
@@ -24,6 +24,7 @@ Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I
   <img alt="huawei" src="https://img.shields.io/badge/Huawei-%23FF0000.svg?style=flat-square&logo=huawei&logoColor=white">
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
+  <img alt="visitor" src="https://badges.pufler.dev/visits/zhiqwang/zhiqwang?style=flat-square&color=9cf&logo=github&logoColor=white">
 </p>
 
 <details>
