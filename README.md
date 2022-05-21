@@ -1,6 +1,6 @@
 ### :wave: Hi here!
 
-Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I'm looking for collaborator on [yolort](https://zhiqwang.com/yolov5-rt-stack/). If you are interested in this, feel free to contact me via E-mail or QQ: 525821227 (With `yolort` as the verification info). :hugs:
+Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I'm looking for maintainers / collaborators for [yolort](https://zhiqwang.com/yolov5-rt-stack/) project. Feel free to contact me via E-mail or QQ: 525821227 if you are interested in this (With `yolort` as the verification info).
 
 ### Things I code with
 
@@ -29,7 +29,7 @@ Thanks for stopping by, this is Zhiqiang, a developer based in Beijing, China. I
 
 <details>
 
-<summary><b>Click to show my GitHub Stats :chart_with_upwards_trend:</b></summary>
+<summary><b>🤗 Click to show my GitHub Stats</b></summary>
   </br>
   <p align="left">
     <a href="https://github.com/zhiqwang?tab=repositories">
